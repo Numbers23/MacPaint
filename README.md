@@ -1,7 +1,7 @@
 # MacPaint
 A simple paint program for Mac
 
-Keys:
+	+ Keys:
 	+ 1: White
 	+ 2: Red
 	+ 3: Yellow
